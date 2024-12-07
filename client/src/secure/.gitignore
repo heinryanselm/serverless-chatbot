@@ -1,2 +1,2 @@
 *.tsx
-!*.example.tsx
+*.example.tsx
